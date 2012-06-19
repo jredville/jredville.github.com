@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[A Hack to Live By]]></title>
-  <link href="http://jredville.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: meta | A Hack to Live By]]></title>
+  <link href="http://jredville.github.com/blog/categories/meta/atom.xml" rel="self"/>
   <link href="http://jredville.github.com/"/>
   <updated>2012-06-19T13:52:41-07:00</updated>
   <id>http://jredville.github.com/</id>
@@ -12,24 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[Quoted - Steven R. Baker]]></title>
-    <link href="http://jredville.github.com/blog/2012/06/19/quoted-steven-r-baker/"/>
-    <updated>2012-06-19T13:49:00-07:00</updated>
-    <id>http://jredville.github.com/blog/2012/06/19/quoted-steven-r-baker</id>
-    <content type="html"><![CDATA[<blockquote><p>Developing maintainabile Rails apps requires walking a *very* fine line between &#8220;the Rails way&#8221; and &#8220;right.&#8221;</p><footer><strong>@srbaker</strong> <cite><a href="https://twitter.com/srbaker/status/205783233223331840">twitter.com/srbaker/status/&hellip;</a></cite></footer></blockquote>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Quoted - Neil deGrasse Tyson]]></title>
-    <link href="http://jredville.github.com/blog/2012/06/19/quoted-neil-degrasse-tyson/"/>
-    <updated>2012-06-19T13:43:00-07:00</updated>
-    <id>http://jredville.github.com/blog/2012/06/19/quoted-neil-degrasse-tyson</id>
-    <content type="html"><![CDATA[<blockquote><p>Knowing how to think empowers you far beyond those who know only what to think.</p><footer><strong>@neiltyson</strong> <cite><a href="https://twitter.com/neiltyson/statuses/203925128483053568">twitter.com/neiltyson/statuses/&hellip;</a></cite></footer></blockquote>
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[Getting back to blogging]]></title>
@@ -42,7 +24,7 @@
 
 <p>Yeah, I did it. Essentially, I decided that</p>
 
-<blockquote><p>Failure counts as done. So do mistakes.</p><footer><strong>Bre Pettis</strong> <cite><a href="http://www.brepettis.com/blog/2009/3/3/the-cult-of-done-manifesto.html">The Cult of Done Manifesto</a></cite></footer></blockquote>
+<p><blockquote><p>Failure counts as done. So do mistakes.</p><footer><strong>Bre Pettis</strong> <cite><a href='http://www.brepettis.com/blog/2009/3/3/the-cult-of-done-manifesto.html'>The Cult of Done Manifesto</a></cite></footer></blockquote></p>
 
 <p>The only way I can make mistakes, and even fail, is to do. Using Octopress may not be exactly what I envisioned, but it is progress; it gets my hands dirty. That was also the motivation to creating and publishing <a href="https://github.com/jredville/lambdas">lambdas</a>: dirty hands.<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup></p>
 

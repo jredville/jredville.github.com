@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: quoted | A Hack to Live By]]></title>
+  <link href="http://jredville.github.com/blog/categories/quoted/atom.xml" rel="self"/>
+  <link href="http://jredville.github.com/"/>
+  <updated>2012-06-19T13:52:41-07:00</updated>
+  <id>http://jredville.github.com/</id>
+  <author>
+    <name><![CDATA[Jim Deville]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Quoted - Steven R. Baker]]></title>
+    <link href="http://jredville.github.com/blog/2012/06/19/quoted-steven-r-baker/"/>
+    <updated>2012-06-19T13:49:00-07:00</updated>
+    <id>http://jredville.github.com/blog/2012/06/19/quoted-steven-r-baker</id>
+    <content type="html"><![CDATA[<p><blockquote><p>Developing maintainabile Rails apps requires walking a <em>very</em> fine line between “the Rails way” and “right.”</p><footer><strong>@srbaker</strong> <cite><a href='https://twitter.com/srbaker/status/205783233223331840'>twitter.com/srbaker/status/&hellip;</a></cite></footer></blockquote></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Quoted - Neil deGrasse Tyson]]></title>
+    <link href="http://jredville.github.com/blog/2012/06/19/quoted-neil-degrasse-tyson/"/>
+    <updated>2012-06-19T13:43:00-07:00</updated>
+    <id>http://jredville.github.com/blog/2012/06/19/quoted-neil-degrasse-tyson</id>
+    <content type="html"><![CDATA[<p><blockquote><p>Knowing how to think empowers you far beyond those who know only what to think.</p><footer><strong>@neiltyson</strong> <cite><a href='https://twitter.com/neiltyson/statuses/203925128483053568'>twitter.com/neiltyson/statuses/&hellip;</a></cite></footer></blockquote></p>
+]]></content>
+  </entry>
+  
+</feed>
